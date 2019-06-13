@@ -1,0 +1,1 @@
+Simple web app to search through friends list
